@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vox &amp; votum populi Anglicani Shewing how deeply the nation resents the thought of capitulating, now, with his Majestie, and holding him, (as we say) at armes-end, if they could. In a letter to the Right Honorable the Earle of Manchester, Speaker of the House of Lords, pro tempore. By T.C. Esquire.</title>
+            <author>Cooper, Thomas, Esquire.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80424</idno>
+            <idno type="STC">Wing C6060</idno>
+            <idno type="STC">ESTC R231637</idno>
+            <idno type="EEBO-CITATION">99897050</idno>
+            <idno type="PROQUEST">99897050</idno>
+            <idno type="VID">170795</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170795)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2462:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vox &amp; votum populi Anglicani Shewing how deeply the nation resents the thought of capitulating, now, with his Majestie, and holding him, (as we say) at armes-end, if they could. In a letter to the Right Honorable the Earle of Manchester, Speaker of the House of Lords, pro tempore. By T.C. Esquire.</title>
+                  <author>Cooper, Thomas, Esquire.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Henry Seile over against St. Dunstans Church in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.C. = Thomas Cooper--Wing.</note>
+                  <note>Dated at end: May 7. 1660.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Restorations, Political --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170795:1"/>
+            <p>
+               <hi>VOX &amp; VOTuM</hi> Populi Anglicani.</p>
+            <p>SHEWING How deeply the Nation re<g ref="char:EOLhyphen"/>ſents the thought of Capitulating, now, with his MAJESTIE, and holding him, (as we ſay) at Armes-end, if they could.</p>
+            <p>
+               <hi>In a Letter to the Right Honorable the Earle of</hi> Mancheſter, <hi>Speaker of the Houſe of Lords,</hi> pro tempore.</p>
+            <p>By <hi>T. C.</hi> Eſquire</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Henry Seile</hi> over againſt St. <hi>Dunſtans</hi> Church in <hi>Fleetstreet,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:170795:2"/>
+            <pb n="1" facs="tcp:170795:2"/>
+            <head>
+               <hi>Vox &amp; Votum Populi Anglicani.</hi> SHEWING How deeply the Nation reſents the thought of Capitulating with his MAJESTIE, &amp;c.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>THough I never yet had the honour of Perſonal Acquaintance with your Lordſhip, yet, partly from the Emi<g ref="char:EOLhyphen"/>nency of your Preſent Station, partly from the Character I have received of you, as a happy Inſtrument in our bleſſed Revo<g ref="char:EOLhyphen"/>lution, and no way, (as I hear) engaged in Faction, with ſome, who would, now, put a Reed, in ſtead of a Scepter, into His Majeſties hand, I take this Li<g ref="char:EOLhyphen"/>berty of addreſſing my ſelf to your Lordſhip, as to a Perſon, whoſe Integrity may endure to hear the
+<pb n="2" facs="tcp:170795:3"/>truth, and to whoſe Candour, I ſuppoſe, plain-dea<g ref="char:EOLhyphen"/>ling will not be offenſive.</p>
+            <p>It were heartily to be wiſhed, That the People of <hi>England,</hi> Eſpecially thoſe, whom better Education ſhould oblige to a diſcretion, ſomewhat above the Vulgar, would, for the preſent content themſelves with thoſe pregnant hopes of a full and honourable Eſtabliſhment, which God hath wonderfully vouch<g ref="char:EOLhyphen"/>ſafed us; That they would conſider, How little their Inquietude can advance, How much it may preju<g ref="char:EOLhyphen"/>dice, or retard our Settlement; That they would reſt ſecure, in the wiſdom of their ſuperiors, without judging, or forejudging of preſent, or future Affairs; But, alas, My Lord, Myſteries of State have, of late times, been ſo proſtituted, we have got ſuch a habit of taking at random, under our late Uſurpers, who (rather like true Tyrants, than good Stateſ-men) en<g ref="char:EOLhyphen"/>ſlaving our ſterſons, left our tongues at Liberty, That nothing can bridle our Extravagancies, in a time of Critical concernment, and impetuous Longings.</p>
+            <p>Hence it is, That all our meetings are now become Cabals; And in every Tavern, matters of the great<g ref="char:EOLhyphen"/>eſt Conſequence are debated, as it were at the marli<g ref="char:EOLhyphen"/>ament or Counſel Table: Now, as the Variety and confuſion of Arguments is almoſt Infinite, ſo the Examen, and ſtrognoſtick, in what manner the Par<g ref="char:EOLhyphen"/>liament ſhould, or will receive his Majeſty, whether with any ſtrecapitulations, and what, hath lately been, and ſtill is the great gulf of Diſcourſe, to which, in effect, all our Converſation tends.</p>
+            <p>Some, (very few indeed, and thoſe ſo diſreliſhed,
+<pb n="3" facs="tcp:170795:3"/>that they ſcarce dare own their Principles) would clog their Soveraign with ſuch Fetters, that, even at <hi>Whitehall,</hi> he might, perhaps, find himſelf, as ill at caſe, as his Bleſſed Father did at <hi>Carisbrook;</hi> Others, (and they likewiſe in Compariſon of the People, not many) would afford him a little more elbowroom, poſſibly accept of Bayl, though ſtill under cuſto<g ref="char:EOLhyphen"/>die; But, I aſſure your Lordſhip, for the Genius of the Nation, (though in circumſtances, it may be miſ<g ref="char:EOLhyphen"/>governed, yet) in the main, it is loyal enough, and ſcornes, the very thought of impoſing upon their baniſhed Prince, Who, we are ſenſible, hath already been but too much wronged: Nay more, We are now, at laſt, convinced, That all our Miſeries ſprang from this bitter Root, And (like a burnt child, dread<g ref="char:EOLhyphen"/>ing the Fire) are afraid of any the leaſt approach, to<g ref="char:EOLhyphen"/>wards the Brink of that deſpair, from which ſo late<g ref="char:EOLhyphen"/>ly, and wonderfully, we have been redeemed; Nor can we, patiently, hear of any Change, (though never ſo ſpecious) in our good Old Government, under which we flouriſhed ſo long, and for the vain Reformation whereof, we paid ſo dear: But, above all, finding, how his Majeſtie, even beyond our hopes, hath, in all things, freely, caſt himſelf upon our Ingenuity, &amp; ſecured us, in the enjoyment of our Birthrights, we hold our ſelves ſacred obliged, not to appear leſſe tender of his Concernments, but meet him, (at leaſt) half way, towards a Settlement, upon the Baſis of reciprocal Juſtice, and kindneſſe.</p>
+            <p>My Lord, I may not preſume you Ignorant, what the Citizens diſcourſe in their Shops, the Country People, at their Fairs, and Markets, what our very
+<pb n="4" facs="tcp:170795:4"/>Children, Nay, what the ſtones in our ſtreets, if they could ſpeak, would proclaim. But, as of late, all ſorts of people, eſpecially Gentlemen, from an infinite Anxiety of Concernment, as living only in hope, have divided themſelves, into daily Conventicles, and Clubs, (each where he thought he might moſt con<g ref="char:EOLhyphen"/>fide in his company) ſo have I, my Lord, (whoſe buſineſſe hath long been News) upon the ſame lan<g ref="char:EOLhyphen"/>guiſhing account, intereſſed my ſelf in ſuch meetings, beyond my Genius, or perhaps diſcretion, to collect the ſenſe of my Country-men; Your Lordſhip will ſcarce believe what preſent delight I took, what fu<g ref="char:EOLhyphen"/>ture hopes I conceived, from that harmonious Loy<g ref="char:EOLhyphen"/>alty, which I found in perſons, formerly, of Judge<g ref="char:EOLhyphen"/>ments, and Intereſts, very diſſonant, wherein I thought the hand of God might be ſeen, even by the purblind: All, (as it were by Inſpiration) crying a<g ref="char:EOLhyphen"/>loud, for the King, not for his ſhadow; not for a King in title, but in effect, a Subject: No, it muſt be a King, ſurrounded with Majeſtick Beams, con<g ref="char:EOLhyphen"/>fecrated with holy oyl, inveſted with inviolable Au<g ref="char:EOLhyphen"/>thority and Power, limited only by the Juſtice of ancient Laws; ſuch a Prince, and nothing elſe, will anſwer our Expectations.</p>
+            <p>A Duke of <hi>Venice</hi> is now the By word, Chief Ma<g ref="char:EOLhyphen"/>giſtrate is grown a Nick name, conſtrued to ſignifie the ſame with Bargo-Meeſter, fit only for ſuch Princes, as were made to truckle, or elſe for Uſur<g ref="char:EOLhyphen"/>pers, who Vayl their real Tyranny, with pretend<g ref="char:EOLhyphen"/>ed Modeſty: Coordination of Powers in conſide<g ref="char:EOLhyphen"/>ed, as a miſchievous engine, raiſed by Faction, to aſ<g ref="char:EOLhyphen"/>ſault Soveraignty which, like a Town, or Fortreſs,
+<pb n="5" facs="tcp:170795:4"/>ſcituate upon Aſcent, could not be effectually batter<g ref="char:EOLhyphen"/>ed, till the Beſiegers had from the earth, raiſed a Platform of equal height, in deſign, therefore, it is moſt pernicious, though in it ſelf, a ſilly ſhift, nay a meer Phantoſm, a Soloeciſm in Government, and a Paradox in Philoſophy.</p>
+            <p>It is generally underſtood, and received, That the King of <hi>England</hi> ought not only to hold a Scepter, but wear a Sword, ſince Factions will not be awed with a Scabbard: As generally it is admitted, That the Militia can be no where ſafer, than with his Majeſtie, whilſt the Purſe is with the People; Eſpe<g ref="char:EOLhyphen"/>cially, ſuch a Militia as the King pretends to, By their Quality, I am ſure, not dangerous to their Country; And it is notably obſerved, that the Sword, being long in the Kings hand, ſcarce ever cut out fingers, But in the Parliaments, preſently, it cut our Throats.</p>
+            <p>The Negative Voice is ſuppoſed to be the inſepa<g ref="char:EOLhyphen"/>rable Property of our <hi>Engliſh</hi> Diadem, as natural as heat to fire; The word King, nay the word Man imports no leſſe; Except we would have our Prince as a Neceſſary Agent, to move with a Vice, to ſtrike like a Clock, or at beſt, ſign Bills, as a Juſtice of Peace doth warrants; ſuch Pretences are now out of Doors, ſuch Gentleneſs is eſteemed a Virtue, fitter for a King of the Frogs, than an Engliſh Monarch: It is, alas, but too freſh in memory, and never to be forgotten, ſince our late Royal Martyr, with unpa<g ref="char:EOLhyphen"/>rallel'd goodneſſe, anſwering the deſires of his Sub<g ref="char:EOLhyphen"/>jects, and not ſuſpecting their ſnares, parted with his Negative only in one particular, <hi>(viz.)</hi> the continu<g ref="char:EOLhyphen"/>ance
+<pb n="6" facs="tcp:170795:5"/>of the Long marliament, what ſtreams of Sacred Bloud, what Rivulets of bitter tears have iſſued from that unfortunate ſource! The Reſentment whereof is, now, ſuch, That his moſt Excellent Majeſtie, (whom God preſerve) as much, as he is deſired, and celebrated by the Nation, would be thought ſcarce worthy of his Crown, if he ſhould accept it upon ſuch mean and unworthy terms; whereby, he might ſoon ſignifie as much, as the Common Vouchee, in a Writ of Entry: The diſtinction of merſonal and mo<g ref="char:EOLhyphen"/>litick capacity thus applied, to prove the King ver<g ref="char:EOLhyphen"/>tually preſent in the marliament, though the Man be elſewhere, are rejected, as exquiſite, and preſump<g ref="char:EOLhyphen"/>tuous Sophiſms; Making way for that accurſed ſcene of ſpitefull Impoſture, which ſoon ſucceeded, when to preſerve, no doubt, his Majeſtie, at <hi>Weſtminster,</hi> they murthered him, at <hi>Whitehall;</hi> Above all, It is marvelled, with what forehead, any of our Lords can challenge a Negative to themſelves, and yet de<g ref="char:EOLhyphen"/>ny it their mrinces, By whoſe ſpecial Favours, and from whoſe Grants, they derive their meerage.</p>
+            <p>The power of mardon, and Reward, as well as wuniſhment, is aſcribed to the King, as to the foun<g ref="char:EOLhyphen"/>tain of Juſtice, and Bounty, And, now by great Ex<g ref="char:EOLhyphen"/>perience, found fitteſt to be truſted with it; One ſtarliament, (or rather warliamentary faction) ha<g ref="char:EOLhyphen"/>ving ſhed more of our innocent Bloud, irregularly, Squandred more of our treaſure, corruptly, than the Cruelty, or ſtrodigality of all our wrinces; The choyce of his Servants is allowed him, as a common Right, denyed to none, but Minors, and Ideots; ect is thought ſufficient to awe iniſters, and ſhis Mulne
+<pb n="7" facs="tcp:170795:5"/>us, That they are Accomptable to the Law, Cenſu<g ref="char:EOLhyphen"/>rable by Parliaments; ſuch as would fain Quarrel with the King upon theſe Accounts, are noted, as ſelviſh Tribunes, who, perhaps, would ſpeak ano<g ref="char:EOLhyphen"/>ther Dialect, If the Conſcience of their Want of Merit did not teach them to diſtruſt his favour.</p>
+            <p>The fond Idea of a Prince in <hi>Cuerpo,</hi> A poor Sti<g ref="char:EOLhyphen"/>pendiary, or Royal Capuchin, is dreaded, and ſleigh<g ref="char:EOLhyphen"/>ted, as Mechanick in it ſelf, and inconſiderable to the Ends of Government; And, though it be, general<g ref="char:EOLhyphen"/>ly, true enough of the People, That they will bear great affronts from a Prince, if he meddle not too much with their Purſeſtrings; Yet ſo deep is, now, the impreſſion of former miſcariages, ſo fervent our Zeal, and Affection to his Majeſtie, And (for our Peace, and Honour, I wiſh, it may never Cool,) That (even, in this great Poverty, which hath ſeized on moſt of us, (eſpecially the moſt loyal,) we ſhould, I am confident, (if need were) offer him the Wi<g ref="char:EOLhyphen"/>dows mite. The Common Noat now is, This we contributed to Uſurpers, and Tyrants, who have not only ſhorn us, at their Pleaſure, but threatened at length to flea us alive; Who, not daigning to ask either our Conſent in Granting, or Counſel in Em<g ref="char:EOLhyphen"/>ploying, made Ducks and Drakes with our Monies; And ſhall we grudge an honorable and fitting ſup<g ref="char:EOLhyphen"/>port to that Prince, in whoſe wealth, and wellfare conſiſts our own? That Prince, to whom we are ſo much in Arrear of Duty, and Aſſiſtance? That Prince, from whoſe Integrity, Temper, Vaſt Expe<g ref="char:EOLhyphen"/>rience, and long acquaintance with Neceſſity, and Thrift, We may, reaſonably expected the greateſt Juſ<g ref="char:EOLhyphen"/>tice, Moderation, Conduct in Affairs, and good
+<pb n="8" facs="tcp:170795:6"/>Management of his treaſure? Could Rigour extort ſo much, And can Ingenuity prevail ſo little? Far be it from us, That, ever, we ſhould again lie, (as it were) at lurch, by with-holding honeſt, and conve<g ref="char:EOLhyphen"/>nient ſupplies, to drive his Majeſty to Exigents, And draw from him ſuch Conceſſions, as perhaps, are e<g ref="char:EOLhyphen"/>qually hurtfull, and dangerous to him, and our ſelves. How can, we hope, he ſhould protect us, if we ſtreighten him? Will not the want of a competent eſtabliſhed Revenue endanger our Peace at home? The with-drawing our ready Aſſiſtance, in extraor<g ref="char:EOLhyphen"/>dinary Emergents, poſſibly, expoſe us to National affronts, however forfeit all our Intereſts abroad? Theſe are the Arguments of the time, And herein conſiſts our chiefeſt happineſſe, That as our Nation hath a Prince, who, I verily believe, will require leſſe, than they would willingly contribute, ſo our Prince hath, now, a People, who, upon a legal, and honorable Account, would cherefully pay more, than he will demand, or need.</p>
+            <p>My Lord, (whether cauſleſly, or not, I dare not pronounce, that dwell at ſuch diſtance from the fountain of Intelligence, But) ſure I am, The Nati<g ref="char:EOLhyphen"/>on, (now, above all, Ombragious) hath taken a hot alarm from the lowd Report of a deſign, to careſſe, indeed his Majeſties Perſon, but, with their Kiſſes, to betray his Authority, And wound it, in all, or moſt of its foremention'd Vitals: And (to our great Affliction, and Aſtoniſhment,) the chief Pro<g ref="char:EOLhyphen"/>jectors are ſaid to be of the Order of Peerage: Were they preſent at any of our dayly Clubs, to hear the downright invectives of ſome, the bitter cenſures of others, the calm, but ſevere, reflections of the Mo<g ref="char:EOLhyphen"/>derate,
+<pb n="9" facs="tcp:170795:6"/>I preſume, their Reaſons would be convin<g ref="char:EOLhyphen"/>ced, or, at leaſt, their wiſdoms perſwaded to quit the purſute of Practiſes, I dare ſay, as Odious, and Ob<g ref="char:EOLhyphen"/>noxious, as the worſt of late Machinations.</p>
+            <p>They are arraigned of great Impiety to God, who, pardoning, I hope, our crying ſinne, and turning our <hi>Aceldama,</hi> into a goodly Field, doth now cry Alowd with the Voyce of Providence, <hi>Sinne no more, leſt a worſe Evil befall you:</hi> If a man, having fallen into grievous Sickneſſe, through his Luxury, and Diſor<g ref="char:EOLhyphen"/>ders; And having, in Extremity, powred forth his Soul to God, in Prayers for preſent Mercie, and Vowes of future Reformation; If ſuch a one, I ſay, (God, in Clemency, and Patience, adjourning his Account,) ſhall, immediately, after the Criſis of his diſeaſe, Apoſtate from his Covenant, and return to his licentiouſneſs, our greateſt Charity will ſcarce oblige us to believe him other than a Caſt-away; And, truly, by like Proportion, We may conclude, That ſuch as, after ſo many treſpaſſes, committed, and pardoned, ſo many Covenants, in publick, ſo many Vowes in private, made, and repeated, ſo ma<g ref="char:EOLhyphen"/>ny Opportunities neglected; And yet, at length, a Miracle of Redemption vouchſafed, ſhall, (as if they took no notice of all this,) preſently, tempt God afreſh, with the ſame Provocations, are, (to ſpeak modeſtly,) at leaſt, Civil Reprobates.</p>
+            <p>They ſtand indicted of high Ingratitude, and Diſ<g ref="char:EOLhyphen"/>loyalty to the King; ſcarce the Child in the Cradle is unſenſible of his Majeſties wrongs, yet he (like a good Chriſtian, and a great Prince,) is pleaſed to contribute more to our Peace, and happineſſe, than our Selves could doe, if we would, by renouncing
+<pb n="10" facs="tcp:170795:7"/>all thoughts of Revenge, and bitter reſentment of what is Paſt, And (with a Confidence, not to be parallel'd,) referring much of his own Intereſt to our Delegates: What Ingratitude, nay what trea<g ref="char:EOLhyphen"/>chery were it, if we ſhould ſmite him, embracing us! If, he addreſſing himſelf with Engliſh freedom, wee entertain him, with Sicilian faith! If, he bringing us nothing but Cordials, we offer him nothing but Minerals, and a deadly Cup! If, whilſt he ſeeks Counſell of God to preſerve us, We in the mean time, take advice of the Rump, and Phanaticks, to deſtroy him.</p>
+            <p>They are deeply cenſured, as reflecting, with ex<g ref="char:EOLhyphen"/>treme ſcandal, upon the Nobility; to ſome of which Order, they are chiefly (though cauſleſly, I hope) imputed: They are conſtrued to proclaim them Bankrouts, of Duty to his Majeſty, of Piety to their Countrey; Nay they are judged to impeach them, in their Common Faculties, As perſons uncapable of underſtanding their own Good; As if they were, yet, to be informed, That the Kings Ecclipſe is their Privation; As if they had forgotten, That, when Kingly Government was aboliſhed, as dan<g ref="char:EOLhyphen"/>gerous, Peerage was, with the ſame breath, layd a<g ref="char:EOLhyphen"/>ſide, as a ſilly Appurtenant; In a word, As if they were meer Properties, Ordained, and fitted to ſerve the Deſignes of Others, againſt Themſelves.</p>
+            <p>They are rejected, with great Odium, and Diſdain, as portending Miſchief, and pronouncing Infamy to the Nation; The Miſchief is great, Nothing, at preſent, ſo likely to lay the foundation of New broils; Theſe are Bones caſt in by Phanaticks, Theſe are Tares, ſcattered by the Enemies of Monarchy, and
+<pb n="11" facs="tcp:170795:7"/>Lovers of Anarchy; Their bare attempt threatens to unhinge our Settlement, and their Succeſſe, (were it, for the preſent, never ſo proſperous,) would viti<g ref="char:EOLhyphen"/>ate our habit, and turn a ſound, into a crazie Conſti<g ref="char:EOLhyphen"/>tution: Our late Mountebanks, in their Politick Lectures, made it their Maſterpiece, to flatter them<g ref="char:EOLhyphen"/>ſelves, and impoſe upon their Diſciples, By alle<g ref="char:EOLhyphen"/>ging, That the Props and Pillars of our Monarchy were long ſince ſhaken, The Ballance being now tur<g ref="char:EOLhyphen"/>ned Democratical; It will not here be pertinent to examine the Vanity of their Poſitions, which, I doubt not, will, in due time, be confute by bleſſed Experience, when that Stone, which thoſe Build<g ref="char:EOLhyphen"/>ers refuſed, is, to their Confuſion, the Cornerſtone of the ſtrongeſt Fabrick, that ever was in this Nati<g ref="char:EOLhyphen"/>on, (For ſuch is our reaſonable Prognoſtick: But, ſhould theſe Projects ſucceed, It were then, indeed, high time for wiſe &amp; good men to look about them, when the eſtabliſhed Government were really ſuch, as could neither ſhelter them, nor ſupport it ſelf; The Promotes thereof are, therefore, to be ſuſ<g ref="char:EOLhyphen"/>pected, as a more refined ſort of Commonwealths-men, and diſguiſed Rumpers. And, as for Infamy, What, I pray, can be more contumelious, than that many of the ſame Perſons ſhould, ſo perverſly, deny their undoubted Soveraign the ſame Prerogative, which they, ſo tamely, granted to the Vileſt of U<g ref="char:EOLhyphen"/>ſurpers; And, ſince the one was done by a Parlia<g ref="char:EOLhyphen"/>ment, (at leaſt, ſo pretended, and, (then) by the Nation, ſeemingly admitted,) If now, (which God forbid) the other ſhould be effected in this Repre<g ref="char:EOLhyphen"/>ſentative, How Abject, Nay how monſtrous muſt it needs appear, eſpecially to Foreiners, who are not acquainted with our <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb n="12" facs="tcp:170795:8"/>
+            <p>They are derided, as moſt unneceſſary, And the Proſecutors deſpiſed, ſome of them, as meer Bu<g ref="char:EOLhyphen"/>ſybodies, who muſt do miſchief, leſt they ſhould ſeem to do nothing; Others, as perſons, who have eſpouſed a faction, upon which, they have ground<g ref="char:EOLhyphen"/>ed their hopes, Or from which, perhaps, they think they cannot come off, with credit, and ſafety: The Nation, alas, profeſſes full aſſurance in his Majeſ<g ref="char:EOLhyphen"/>ties Juſtice and Clemency, The largeneſſe whereof is the only ſubject of our Delight, and Wonder: If any deſire greater ſecurity, than the Court of Al<g ref="char:EOLhyphen"/>dermen can give, Let them get it that can, Let them expect it, that will; If any be not ſatisfied with the Laws of his Country, And a Lawfull Prince, of ſin<g ref="char:EOLhyphen"/>gular Virtue, and unſpotted Faith, Let him mend himſelf; We, for our Parts, joyfully acquieſce.</p>
+            <p>They are diſclaimed, as unſeaſonable, and, at this time, moſt of all, inconvenient; Alas, The Body Languiſhes, The Spirits are Very Low, And ſhall we ſtill be trying of Chymical Concluſions? Great heires, newly come to Age, may afford to ſtake Lordſhips upon a Caſt at Dice; But poor Cadets are obliged to play at leſſer, and ſurer Game; We ſuppoſe, it, now concerns us more to ſtudy our ſet<g ref="char:EOLhyphen"/>tlement, than the Reformation of our Antient Laws, which if they were imperfect, Yet, ſurely, by Expe<g ref="char:EOLhyphen"/>rience, are not intolerable; We hear nothing pro<g ref="char:EOLhyphen"/>pounded, that may encourage us to new Expediti<g ref="char:EOLhyphen"/>ons in <hi>America,</hi> or tempt us to exaſperate our law<g ref="char:EOLhyphen"/>full Soveraign, Who, being, now, in Condition to reſent his wrongs, Yet, with friendly Ouvertures, prevents our hopes: No; the Engliſh Nation is Weather-beaten, Glad to Anchor any where, tole<g ref="char:EOLhyphen"/>rably,
+<pb n="13" facs="tcp:170795:8"/>but over joy'd to find it ſelf in ſo good a har<g ref="char:EOLhyphen"/>bour, And not like, I ſuppoſe, haſtily to put to Sea again in foul Weather.</p>
+            <p>They are deteſted, as diſingenuous, ſavouring of ugly Dureſſe, and Inſolence, to Gods Vicegerent: Certainly, baniſhment hath its Violence, as well, as Impriſonment, That accoſts his Majeſtie, with a Dagger, at his throat, This, with a Sword, pointing to his breſt. Which of us, were the Tables turned, would think himſelf fairly dealt with, If, being, without the leaſt colour, diſſeized of his Freehold, he had the Choyce, Either to beg, (perhaps ſtarve) Or Purchaſe his Re-admiſſion, by the Surrender of Part, Or grant of a Rent charge, upon the Whole? Do not the Laws of Nations avoid, The Laws of <hi>England</hi> abhor ſuch contracts? If this be <hi>Presbyteri<g ref="char:EOLhyphen"/>an</hi> Juſtice, Give me leave, My Lord, to aſſure you, Few of us, God be thanked, are now <hi>Presbyterians.</hi>
+            </p>
+            <p>They are branded, as Plots and Conſpiracies, fit<g ref="char:EOLhyphen"/>ter for Juntoes and factious Conventicles, than <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Parliaments, to broach, or cheriſh: Our Parlia<g ref="char:EOLhyphen"/>ments conſiſt of Lords, and Commons; The Lords repreſent none, but themſelves, and cannot pretend to Popular truſt: For them, therefore, thus to aſſume the diſpoſal of the Kings Prerogative, in his abſence, or alteration of our Government, without our leave, were, (we conceive) ſuch Uſurpation, As not the Rump, or <hi>Barebones</hi> ſeemed more injuriouſly to in<g ref="char:EOLhyphen"/>trude: The Houſe of Commons, we confeſſe, hath a truſt, But it is to aſſert our Liberties, not abrogate our Lawes, Let them keep themſelves to our truſt, And we are ſatisfied, Otherwiſe, we hope, they will
+<pb n="14" facs="tcp:170795:9" rendition="simple:additions"/>not blame us, if, for the future, we know them, and (at leaſt) truſt them no more.</p>
+            <p>Finally, They are exploded, as ridiculous, and Prepoſterous; Indeed, how incongruous were it for that Aſſembly, which ſits by no Title, but preſent Exigence, to talk or dream of limiting their Prince, who muſt firſt conſtitute them, and from whom they are to receive a being before they ſignifie any thing in Law! But admit them a Parliament, The King they know, is free to refuſe, and, we ſuppoſe, not like to grant ſuch Bills, as he ſhall judge unſafe, or unfit; And, in ſuch refuſall, we reſolve, (as in Duty we are bound) unanimouſly, with our lives, and for<g ref="char:EOLhyphen"/>tunes, to juſtifie him; Beſides, His Majeſtie, and all Rational Men cannot but be ſenſible, How much, at preſent, we need him more, than he doth us, and that our Condition, as well as Duty, now preſſes us, rather to ſupplicate his ſpeedy Return to his lan<g ref="char:EOLhyphen"/>guiſhing Country, than obſtruct it with Capitula<g ref="char:EOLhyphen"/>tions.</p>
+            <p>Thus, have I, faithfully, and, as briefly, as I could, ac<g ref="char:EOLhyphen"/>quainted your Lordſhip with the preſent temper and ſenſe of the Nation; Not as preſuming you to want my Infor<g ref="char:EOLhyphen"/>mation, But that your Lordſhip may pleaſe, (when you ſee cauſe) to communicate it to thoſe, (if ſuch there be) who are leſſe ſound in their Principles and Allegiance: If my Endeavours, herein, may prove, in any wiſe, Uſefull, I ſhall much rejoyce; If Needleſſe, (as being grounded up<g ref="char:EOLhyphen"/>on miſtake,) my ſatisfaction will be yet greater My Day<g ref="char:EOLhyphen"/>ly Prayers, however, are, and ſhall alwaies be, That God would preſerve his Majeſtie from ſuch ſnares, reſtrain his People from ſuch undutifull thoughts, And direct your Lordſhip, in all the Wayes of Honor and Loyalty. I re<g ref="char:EOLhyphen"/>main,</p>
+            <closer>
+               <salute>MY LORD,</salute>
+               <dateline>
+                  <date>May 7. 1660.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt faithfull and obedient Servant, <hi>T. C.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
